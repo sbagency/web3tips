@@ -16,7 +16,7 @@ Make PR add new tip on top of list with title, date, description, code and links
 
 # Tips list
 
--  0 - [Tip template](README#0---core-cybersec-concepts)
+-  0 - [Tip template](README.md#0---core-cybersec-concepts)
 
 
 ## #0 - Core cybersec concepts
