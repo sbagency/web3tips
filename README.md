@@ -16,14 +16,24 @@ Make PR add new tip on top of list with title, date, description, code and links
 
 # Tips list
 
--  0 - [Tip template](README.md#0---core-cybersec-concepts)
+-  1 - [Distributed concensus mechanisms](README.md#1---core-cybersec-concepts)
+-  0 - [Core cybersec concepts](README.md#0---core-cybersec-concepts)
 
+
+## #1 - Distributed concensus mechanisms
+> 2021-04-06 by [@web3scout](https://github.com/web3scout)
+
+Proof of work, proof of stake, proof of something mechanism is to prevent attacks.  
+Proof is a proof. It's only a part of distributed consensus mechanisms.  
+
+
+[Vitalik's comments](https://www.youtube.com/watch?v=XW0QZmtbjvs&t=1674s)
 
 ## #0 - Core cybersec concepts
 > 2021-01-06 by [@web3scout](https://github.com/web3scout)
 
 - No single point of trust, no silver bullet
-- Crypto protocols: hash, {enc,dec}ryption,  
+- Crypto protocols: hash, {enc,dec}ryption,  digital signatures (PKI)
 - Distributed protocols: dlt/blockchain,dht
 - Zero knowledge proofs (ZKP)
 - Multi party computation (MPC)
